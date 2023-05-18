@@ -43,8 +43,8 @@ function getRecord(datain)
 				
 				columns[i] = record.getLineItemValue(sublist[0],sublist[1],1);
 				
-				//nlapiLogExecution('DEBUG','sublist[0]='+sublist[0]);  
-				//nlapiLogExecution('DEBUG','sublist[1]='+sublist[1]);  
+				nlapiLogExecution('DEBUG','sublist[0]='+sublist[0]);  
+				nlapiLogExecution('DEBUG','sublist[1]='+sublist[1]);  
 				
 			} 
 			else
