@@ -1,7 +1,7 @@
 
 // Global Variables
 {
-	var debugFieldChange = true ;
+	var debugFieldChange = false ;
 }
 
 function setRevRecDate(type,name)
