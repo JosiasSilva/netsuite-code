@@ -21,7 +21,7 @@ No custom fields Required
 
 // Global Variables
 {
-	var debugFieldChange = false ;
+	var debugFieldChange = true ;
 }
 
 function setRevRecDate(type,name)
